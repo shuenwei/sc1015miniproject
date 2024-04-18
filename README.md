@@ -27,7 +27,7 @@ For detailed walkthrough, you may view the source code in the following order:
 1. EDA (Exploratory data analysis)
 2. Logistic Regression
 3. [Random Forest](https://github.com/shuenwei/sc1015miniproject/blob/main/Random%20Forest.ipynb)
-4. Neural Network
+4. [Neural Network](https://github.com/shuenwei/sc1015miniproject/blob/main/Neural%20Network.ipynb)
 
 In the EDA notebook, we first cleaned the data by removing possible incorrectly recorded data. We then did a basic exploratory analysis for every predictor against the response variable (HeartDisease). This helps us to understand the relationships between the different variables and a patient's susceptibility to developing heart diseases.
 
