@@ -25,7 +25,7 @@ The dataset used is the ‘Heart Failure Prediction Dataset’ found on Kaggle, 
 For detailed walkthrough, you may view the source code in the following order:
 
 1. [EDA (Exploratory data analysis)](https://github.com/shuenwei/sc1015miniproject/blob/main/EDA.ipynb)
-2. Logistic Regression
+2. [Logistic Regression](https://github.com/shuenwei/sc1015miniproject/blob/main/Logistic%20Regression.ipynb)
 3. [Random Forest](https://github.com/shuenwei/sc1015miniproject/blob/main/Random%20Forest.ipynb)
 4. [Neural Network](https://github.com/shuenwei/sc1015miniproject/blob/main/Neural%20Network.ipynb)
 
