@@ -35,7 +35,7 @@ In the logistic regression notebook, we tuned the hyperparameters (C and penalty
 
 In the random forest notebook, we first used classification trees of different depths (3, 4, 5), followed by random forest. We also considered the impact of class imbalance.
 
-In the neural network notebook, we used two different neural network models (MLPClassifier and Keras sequential model).
+In the neural network notebook, we used two implementations of a neural network (MLPClassifier and Keras sequential model).
 
 One hot encoding is done in all three models. Whether the model is good / accurate is assessed by the accuracy and F1 score of the respective model on the test datasets.
 
