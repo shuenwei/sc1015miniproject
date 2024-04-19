@@ -40,7 +40,9 @@ In the neural network notebook, we used two different neural network models (MLP
 One hot encoding is done in all three models. Whether the model is good / accurate is assessed by the accuracy and F1 score of the respective model on the test datasets.
 
 ## Problem Statement
-What are the top 3 clinical variables that can be used to predict heart disease?
+How do we best predict whether a patient has heart disease or not?
+1. What are the top 3 clinical predictors?
+2. Which model is best in this prediction?
 
 ## Models used
   1. Logistic Regression (sklearn)
