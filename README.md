@@ -1,7 +1,7 @@
 # SC1015: Mini Project - Predicting Heart Disease
 
 - Lab: FCSA
-- Group: 6
+- Team: 6
 
 Members:
   1. Goh Shuen Wei (@shuenwei)
